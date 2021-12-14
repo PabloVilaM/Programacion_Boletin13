@@ -1,6 +1,7 @@
 
 
 2- Que visualizas no seguinte programa :
+
 class Ejercicio { 
  public static void main (String [] args) { 
  Clase1 obj1= new Clase1(5,4); 
